@@ -1,0 +1,149 @@
+﻿Codigo,Producto,Categoria,Sucursal,Cantidad,Stock_Minimo,Precio_Unitario,Fecha_Ingreso
+P004,Aceite Vegetal 1 L,Abarrotes,La Libertad,104,24,3.13,2026-06-28
+P001,Arroz Blanco 5 lb,Abarrotes,La Libertad,105,30,4.45,2026-02-14
+P009,Atún en Agua 140 g,Abarrotes,La Libertad,74,24,1.54,2026-07-24
+P003,Azúcar Blanca 5 lb,Abarrotes,La Libertad,57,25,4.12,2026-09-10
+P005,Café Molido 1 lb,Abarrotes,La Libertad,129,18,7.7,2026-07-15
+P002,Frijol Rojo 5 lb,Abarrotes,La Libertad,84,30,6.01,2026-08-10
+P007,Pasta Larga 500 g,Abarrotes,La Libertad,94,20,1.32,2026-08-16
+P006,Sal de Mesa 1 kg,Abarrotes,La Libertad,44,20,1.04,2026-06-18
+P008,Salsa de Tomate 400 g,Abarrotes,La Libertad,57,18,1.62,2026-03-05
+P011,Agua Purificada 600 ml,Bebidas,La Libertad,68,40,0.74,2026-10-07
+P015,Bebida Energética 500 ml,Bebidas,La Libertad,76,24,2.02,2026-05-18
+P014,Café Instantáneo 200 g,Bebidas,La Libertad,76,15,6.1,2026-09-01
+P013,Jugo de Naranja 1 L,Bebidas,La Libertad,80,20,2.61,2026-06-21
+P012,Refresco Cola 2 L,Bebidas,La Libertad,56,30,2.26,2026-01-31
+P028,Desodorante 150 ml,Cuidado Personal,La Libertad,113,15,3.62,2026-02-09
+P029,Jabón Facial 100 g,Cuidado Personal,La Libertad,92,15,2.12,2026-09-28
+P027,Pasta Dental 100 ml,Cuidado Personal,La Libertad,16,20,2.42,2026-06-16
+P026,Shampoo 750 ml,Cuidado Personal,La Libertad,55,15,5.47,2026-09-30
+P030,Toallas Húmedas 80 u,Cuidado Personal,La Libertad,66,18,2.48,2026-04-20
+P023,Cloro 1 L,Limpieza,La Libertad,85,20,1.32,2026-07-07
+P021,Detergente 1 kg,Limpieza,La Libertad,170,20,3.8,2026-06-24
+P022,Jabón de Baño 110 g,Limpieza,La Libertad,74,30,1.19,2026-09-08
+P024,Limpiador Multiusos 1 L,Limpieza,La Libertad,73,18,2.41,2026-05-21
+P025,Papel Higiénico 4 rollos,Limpieza,La Libertad,77,25,2.87,2026-02-03
+P018,Crema 500 ml,Lácteos,La Libertad,71,15,3.45,2026-08-26
+P016,Leche Entera 1 L,Lácteos,La Libertad,81,35,1.9,2026-09-21
+P020,Mantequilla 250 g,Lácteos,La Libertad,6,12,3.3,2026-10-09
+P017,Queso Fresco 1 lb,Lácteos,La Libertad,72,18,4.05,2026-01-06
+P019,Yogurt Natural 1 L,Lácteos,La Libertad,6,15,3.04,2026-10-14
+P004,Aceite Vegetal 1 L,Abarrotes,San Miguel,73,24,3.69,2026-08-04
+P001,Arroz Blanco 5 lb,Abarrotes,San Miguel,124,30,5.66,2026-01-11
+P009,Atún en Agua 140 g,Abarrotes,San Miguel,130,24,1.86,2026-06-12
+P003,Azúcar Blanca 5 lb,Abarrotes,San Miguel,11,25,4.91,2026-06-04
+P005,Café Molido 1 lb,Abarrotes,San Miguel,85,18,8.93,2026-01-15
+P002,Frijol Rojo 5 lb,Abarrotes,San Miguel,77,30,7.31,2026-03-04
+P010,Galletas de Soda 12 u,Abarrotes,San Miguel,121,24,2.18,2026-04-24
+P007,Pasta Larga 500 g,Abarrotes,San Miguel,17,20,1.56,2026-05-16
+P006,Sal de Mesa 1 kg,Abarrotes,San Miguel,140,20,1.25,2026-03-17
+P008,Salsa de Tomate 400 g,Abarrotes,San Miguel,5,18,2.04,2026-09-21
+P011,Agua Purificada 600 ml,Bebidas,San Miguel,63,40,0.9,2026-07-24
+P015,Bebida Energética 500 ml,Bebidas,San Miguel,75,24,2.5,2026-09-25
+P014,Café Instantáneo 200 g,Bebidas,San Miguel,86,15,7.2,2026-09-06
+P013,Jugo de Naranja 1 L,Bebidas,San Miguel,139,20,3.24,2026-08-31
+P012,Refresco Cola 2 L,Bebidas,San Miguel,64,30,2.68,2026-04-13
+P028,Desodorante 150 ml,Cuidado Personal,San Miguel,132,15,4.55,2026-07-15
+P029,Jabón Facial 100 g,Cuidado Personal,San Miguel,95,15,2.42,2026-08-31
+P027,Pasta Dental 100 ml,Cuidado Personal,San Miguel,92,20,2.85,2026-05-08
+P026,Shampoo 750 ml,Cuidado Personal,San Miguel,36,15,6.4,2026-07-11
+P030,Toallas Húmedas 80 u,Cuidado Personal,San Miguel,124,18,3.18,2026-08-22
+P023,Cloro 1 L,Limpieza,San Miguel,122,20,1.74,2026-07-02
+P021,Detergente 1 kg,Limpieza,San Miguel,108,20,4.69,2026-03-25
+P022,Jabón de Baño 110 g,Limpieza,San Miguel,12,30,1.41,2026-01-05
+P024,Limpiador Multiusos 1 L,Limpieza,San Miguel,166,18,2.94,2026-09-22
+P025,Papel Higiénico 4 rollos,Limpieza,San Miguel,50,25,3.32,2026-01-15
+P018,Crema 500 ml,Lácteos,San Miguel,125,15,3.91,2026-07-21
+P016,Leche Entera 1 L,Lácteos,San Miguel,23,35,2.27,2026-05-16
+P020,Mantequilla 250 g,Lácteos,San Miguel,111,12,4.19,2026-06-08
+P017,Queso Fresco 1 lb,Lácteos,San Miguel,57,18,5.13,2026-01-10
+P019,Yogurt Natural 1 L,Lácteos,San Miguel,61,15,3.66,2026-03-22
+P001,Arroz Blanco 5 lb,Abarrotes,San Salvador,108,30,7.98,2026-04-25
+P009,Atún en Agua 140 g,Abarrotes,San Salvador,164,24,2.69,2026-08-25
+P003,Azúcar Blanca 5 lb,Abarrotes,San Salvador,138,25,7.19,2026-05-03
+P005,Café Molido 1 lb,Abarrotes,San Salvador,93,18,13.0,2026-01-06
+P002,Frijol Rojo 5 lb,Abarrotes,San Salvador,143,30,10.98,2026-10-21
+P010,Galletas de Soda 12 u,Abarrotes,San Salvador,112,24,3.21,2026-09-17
+P007,Pasta Larga 500 g,Abarrotes,San Salvador,102,20,2.3,2026-02-09
+P006,Sal de Mesa 1 kg,Abarrotes,San Salvador,126,20,1.83,2026-07-02
+P008,Salsa de Tomate 400 g,Abarrotes,San Salvador,176,18,2.89,2026-10-23
+P011,Agua Purificada 600 ml,Bebidas,San Salvador,168,40,1.31,2026-07-23
+P015,Bebida Energética 500 ml,Bebidas,San Salvador,138,24,3.68,2026-08-22
+P014,Café Instantáneo 200 g,Bebidas,San Salvador,100,15,10.56,2026-03-14
+P013,Jugo de Naranja 1 L,Bebidas,San Salvador,175,20,4.86,2026-01-26
+P012,Refresco Cola 2 L,Bebidas,San Salvador,142,30,3.99,2026-09-23
+P028,Desodorante 150 ml,Cuidado Personal,San Salvador,187,15,6.36,2026-06-10
+P029,Jabón Facial 100 g,Cuidado Personal,San Salvador,132,15,3.78,2026-09-09
+P027,Pasta Dental 100 ml,Cuidado Personal,San Salvador,137,20,4.04,2026-01-23
+P026,Shampoo 750 ml,Cuidado Personal,San Salvador,155,15,9.81,2026-02-12
+P030,Toallas Húmedas 80 u,Cuidado Personal,San Salvador,179,18,4.45,2026-09-16
+P023,Cloro 1 L,Limpieza,San Salvador,149,20,2.47,2026-08-20
+P021,Detergente 1 kg,Limpieza,San Salvador,131,20,6.88,2026-10-13
+P022,Jabón de Baño 110 g,Limpieza,San Salvador,168,30,2.18,2026-08-13
+P024,Limpiador Multiusos 1 L,Limpieza,San Salvador,157,18,4.58,2026-05-17
+P025,Papel Higiénico 4 rollos,Limpieza,San Salvador,173,25,4.89,2026-07-30
+P018,Crema 500 ml,Lácteos,San Salvador,154,15,6.11,2026-01-05
+P016,Leche Entera 1 L,Lácteos,San Salvador,127,35,3.25,2026-07-25
+P020,Mantequilla 250 g,Lácteos,San Salvador,169,12,6.21,2026-08-27
+P017,Queso Fresco 1 lb,Lácteos,San Salvador,70,18,7.4,2026-09-14
+P019,Yogurt Natural 1 L,Lácteos,San Salvador,115,15,5.4,2026-08-23
+P004,Aceite Vegetal 1 L,Abarrotes,Santa Ana,135,24,4.25,2026-01-14
+P001,Arroz Blanco 5 lb,Abarrotes,Santa Ana,94,30,6.04,2026-03-11
+P009,Atún en Agua 140 g,Abarrotes,Santa Ana,98,24,2.1,2026-08-20
+P003,Azúcar Blanca 5 lb,Abarrotes,Santa Ana,95,25,5.57,2026-07-19
+P005,Café Molido 1 lb,Abarrotes,Santa Ana,117,18,10.26,2026-08-19
+P002,Frijol Rojo 5 lb,Abarrotes,Santa Ana,130,30,8.53,2026-09-24
+P010,Galletas de Soda 12 u,Abarrotes,Santa Ana,86,24,2.4,2026-09-29
+P007,Pasta Larga 500 g,Abarrotes,Santa Ana,159,20,1.75,2026-08-23
+P006,Sal de Mesa 1 kg,Abarrotes,Santa Ana,161,20,1.44,2026-03-20
+P008,Salsa de Tomate 400 g,Abarrotes,Santa Ana,103,18,2.19,2026-03-30
+P011,Agua Purificada 600 ml,Bebidas,Santa Ana,82,40,0.99,2026-03-12
+P015,Bebida Energética 500 ml,Bebidas,Santa Ana,78,24,2.69,2026-05-21
+P014,Café Instantáneo 200 g,Bebidas,Santa Ana,114,15,7.89,2026-09-04
+P013,Jugo de Naranja 1 L,Bebidas,Santa Ana,84,20,3.49,2026-08-26
+P012,Refresco Cola 2 L,Bebidas,Santa Ana,125,30,2.99,2026-02-10
+P028,Desodorante 150 ml,Cuidado Personal,Santa Ana,102,15,4.93,2026-05-09
+P029,Jabón Facial 100 g,Cuidado Personal,Santa Ana,95,15,2.72,2026-08-12
+P027,Pasta Dental 100 ml,Cuidado Personal,Santa Ana,76,20,3.06,2026-08-25
+P026,Shampoo 750 ml,Cuidado Personal,Santa Ana,46,15,7.52,2026-01-20
+P030,Toallas Húmedas 80 u,Cuidado Personal,Santa Ana,103,18,3.53,2026-03-04
+P023,Cloro 1 L,Limpieza,Santa Ana,10,20,1.81,2026-05-12
+P021,Detergente 1 kg,Limpieza,Santa Ana,92,20,4.9,2026-01-31
+P022,Jabón de Baño 110 g,Limpieza,Santa Ana,105,30,1.6,2026-05-22
+P024,Limpiador Multiusos 1 L,Limpieza,Santa Ana,54,18,3.31,2026-01-08
+P025,Papel Higiénico 4 rollos,Limpieza,Santa Ana,142,25,3.72,2026-02-18
+P018,Crema 500 ml,Lácteos,Santa Ana,98,15,4.51,2026-10-03
+P016,Leche Entera 1 L,Lácteos,Santa Ana,121,35,2.57,2026-06-19
+P020,Mantequilla 250 g,Lácteos,Santa Ana,73,12,4.47,2026-05-16
+P017,Queso Fresco 1 lb,Lácteos,Santa Ana,91,18,5.59,2026-04-04
+P019,Yogurt Natural 1 L,Lácteos,Santa Ana,122,15,3.96,2026-10-18
+P004,Aceite Vegetal 1 L,Abarrotes,Sonsonate,16,24,2.59,2026-10-10
+P001,Arroz Blanco 5 lb,Abarrotes,Sonsonate,71,30,3.86,2026-04-19
+P009,Atún en Agua 140 g,Abarrotes,Sonsonate,22,24,1.29,2026-09-21
+P003,Azúcar Blanca 5 lb,Abarrotes,Sonsonate,44,25,3.49,2026-09-30
+P005,Café Molido 1 lb,Abarrotes,Sonsonate,79,18,6.63,2026-10-21
+P002,Frijol Rojo 5 lb,Abarrotes,Sonsonate,101,30,5.49,2026-09-08
+P010,Galletas de Soda 12 u,Abarrotes,Sonsonate,23,24,1.59,2026-07-28
+P007,Pasta Larga 500 g,Abarrotes,Sonsonate,79,20,1.09,2026-08-23
+P006,Sal de Mesa 1 kg,Abarrotes,Sonsonate,83,20,0.87,2026-06-03
+P008,Salsa de Tomate 400 g,Abarrotes,Sonsonate,91,18,1.46,2026-03-20
+P011,Agua Purificada 600 ml,Bebidas,Sonsonate,0,40,0.59,2026-06-30
+P015,Bebida Energética 500 ml,Bebidas,Sonsonate,120,24,1.71,2026-07-05
+P014,Café Instantáneo 200 g,Bebidas,Sonsonate,75,15,5.02,2026-09-11
+P013,Jugo de Naranja 1 L,Bebidas,Sonsonate,104,20,2.22,2026-08-10
+P012,Refresco Cola 2 L,Bebidas,Sonsonate,112,30,1.98,2026-05-12
+P028,Desodorante 150 ml,Cuidado Personal,Sonsonate,98,15,3.11,2026-01-14
+P029,Jabón Facial 100 g,Cuidado Personal,Sonsonate,100,15,1.83,2026-02-06
+P027,Pasta Dental 100 ml,Cuidado Personal,Sonsonate,37,20,2.0,2026-09-03
+P026,Shampoo 750 ml,Cuidado Personal,Sonsonate,0,15,4.55,2026-08-20
+P030,Toallas Húmedas 80 u,Cuidado Personal,Sonsonate,89,18,2.26,2026-06-21
+P023,Cloro 1 L,Limpieza,Sonsonate,30,20,1.23,2026-10-14
+P021,Detergente 1 kg,Limpieza,Sonsonate,66,20,3.34,2026-07-01
+P022,Jabón de Baño 110 g,Limpieza,Sonsonate,25,30,1.0,2026-04-24
+P024,Limpiador Multiusos 1 L,Limpieza,Sonsonate,80,18,2.16,2026-08-25
+P025,Papel Higiénico 4 rollos,Limpieza,Sonsonate,18,25,2.51,2026-05-22
+P018,Crema 500 ml,Lácteos,Sonsonate,11,15,2.91,2026-03-22
+P016,Leche Entera 1 L,Lácteos,Sonsonate,147,35,1.62,2026-08-14
+P020,Mantequilla 250 g,Lácteos,Sonsonate,100,12,2.99,2026-05-18
+P017,Queso Fresco 1 lb,Lácteos,Sonsonate,37,18,3.4,2026-04-11
+P019,Yogurt Natural 1 L,Lácteos,Sonsonate,78,15,2.68,2026-08-08
