@@ -1,2 +1,2 @@
-Marlon Moises Segovia Henriquez 
-Elias Ezequiel Gomez Medina
+#Marlon Moises Segovia Henriquez 
+#Elias Ezequiel Gomez Medina
